@@ -3,8 +3,8 @@ bladex/sentinel-dashboard
 nacos/nacos-server
 mysql
 minio/minio
-#elasticsearch
-#kibana
+elasticsearch:8.14.3
+kibana:8.14.3
 rabbitmq
 redis
 
