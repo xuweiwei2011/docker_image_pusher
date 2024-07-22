@@ -1,3 +1,5 @@
+confluentinc/cp-zookeeper:latest
+confluentinc/cp-kafka:latest
 nginx
 bladex/sentinel-dashboard
 nacos/nacos-server
