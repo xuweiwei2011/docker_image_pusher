@@ -1,3 +1,4 @@
+google/cadvisor:latest
 confluentinc/cp-zookeeper:latest
 confluentinc/cp-kafka:latest
 nginx
