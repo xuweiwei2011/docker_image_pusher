@@ -1,5 +1,5 @@
 jenkins/jenkins:lts
-google/cadvisor:v0.49.1
+gcr.io/cadvisor/cadvisor:v0.49.1
 confluentinc/cp-zookeeper:latest
 confluentinc/cp-kafka:latest
 nginx
