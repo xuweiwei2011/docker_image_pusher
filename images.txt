@@ -8,7 +8,7 @@ nginx
 bladex/sentinel-dashboard
 nacos/nacos-server
 mysql
-minio/minio
+#minio/minio
 elasticsearch:8.14.3
 kibana:8.14.3
 rabbitmq:management
